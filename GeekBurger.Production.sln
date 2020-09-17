@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBurger.Production", "GeekBurger.Production\GeekBurger.Production.csproj", "{10815FA4-AEAE-481B-A7B3-BF6715FE1399}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBurger.Production.Contract", "GeekBurger.Production.Contract\GeekBurger.Production.Contract.csproj", "{549C6D2B-2852-45FE-9EAC-F92F0724A8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10815FA4-AEAE-481B-A7B3-BF6715FE1399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10815FA4-AEAE-481B-A7B3-BF6715FE1399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10815FA4-AEAE-481B-A7B3-BF6715FE1399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10815FA4-AEAE-481B-A7B3-BF6715FE1399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549C6D2B-2852-45FE-9EAC-F92F0724A8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549C6D2B-2852-45FE-9EAC-F92F0724A8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549C6D2B-2852-45FE-9EAC-F92F0724A8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549C6D2B-2852-45FE-9EAC-F92F0724A8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7533F2-411E-47B2-A6A3-28184EB309FB}
+	EndGlobalSection
+EndGlobal
